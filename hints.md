@@ -1,4 +1,4 @@
-linux (bash) commands
+# linux (bash) commands
 ```bash
 man [command name]   = check the manual for the command if its not in hints
 
