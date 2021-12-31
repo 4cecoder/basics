@@ -11,6 +11,8 @@ w    = write
 q    = quit 
 ```
 
-combine them 
+## combine them 
+```
 :wq
-saves and closes document
+```
+### this saves and closes document
