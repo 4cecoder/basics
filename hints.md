@@ -7,14 +7,16 @@ clear                = clear the window
 folders (directories): 
  ```bash
  cd [directory]       = change directory
- mkdir [name]         = make a new folder```
+ mkdir [name]         = make a new folder
+ ```
 
 files: 
  ```bash
  ls                   = list the files in folder you are in
  cat [file]           = view content of file
  mv [file] [directory]= move a file
- rm                   = remove a file```
+ rm                   = remove a file
+ ```
 
 edit: 
 ```bash
