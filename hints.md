@@ -4,7 +4,7 @@
 ```bash
 man [command name]  # = check the manual for the command if its not in hints
 ```
-### the easiest but most used
+### the easiest but most used (always stay clean)
 ```bash
 clear               # = clear the window
 ```
