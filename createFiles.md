@@ -13,8 +13,7 @@ w    = write
 q    = quit 
 ```
 
-## combine them 
+## combining them saves and quits
 ```vim
 :wq
 ```
-### this saves and closes document
