@@ -1,6 +1,6 @@
 # linux (bash) commands
-### the man command is one of the ultimate secret weapons
-## looks up everything about a command 
+##  man command is the ultimate secret they don't want you to know about
+### looks up everything about a command 
 ```bash
 man [command name]  # = check the manual for the command if its not in hints
 ```
