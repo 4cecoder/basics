@@ -1,7 +1,9 @@
 # linux (bash) commands
+### the man command is one of the ultimate secret weapons
 ```bash
 man [command name]  # = check the manual for the command if its not in hints
-
+```
+```bash
 clear               # = clear the window
 ```
 folders (directories): 
