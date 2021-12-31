@@ -24,7 +24,7 @@ k   " = up
 l   " = right  
 ```
 ## ERASE:
-```
+```vim
 dd  " = delete line
 dj  " = delete down
 dk  " = delete up 
@@ -32,7 +32,7 @@ dw  " = delete word ahead
 db  " = delete word behind
 ```
 ## COPY:
-```
+```vim
 yy  " = copy line
 yj  " = copy down (2 lines)
 yk  " = copy up (2 lines)
